@@ -1,0 +1,127 @@
+/*
+ Theme Name:   Frankfinn
+ Theme URI:    
+ Description:  Twenty Fifteen Child Theme
+ Author:       sonu
+ Author URI:   
+ Template:     twentyfifteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+
+div.wpcf7-spam-blocked {
+  border: 2px solid #ffa500;
+  color: #ff9800;
+}
+.grecaptcha-badge {
+    bottom: 90px!important;
+}
+.help-block {
+  color: #fa0000;
+  font-size: 12px;
+  text-align: left;
+}
+.gm-style-iw.gm-style-iw-c {
+  display: block !important;
+}
+div.fn-accordion.jbs {
+  margin-top: 35px;
+}
+.card-header.jb {
+  background-color: #f7f7f7 !important;
+  border-bottom: none;
+  margin-bottom: 10px;
+}
+.job-dis {
+  width: 100%;
+  padding: 5px 0px;
+  display: block;
+  float: left;
+}
+.apply-now-frm span.fn-wp-contact-form-label {
+  position: static;
+}
+.fn-wp-contact-form-wrapper.apply-now-form {
+  margin-top: 50px;
+}
+div.wpcf7 input[type="file"] {
+  cursor: pointer;
+  width: 100%;
+  background: #da3c3c;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+input.wpcf7-form-control.wpcf7-number.wpcf7-validates-as-required.wpcf7-validates-as-number {
+  border-bottom: 1px solid #d6d6d6;
+  border-width: 0 0 1px 0;
+  z-index: 2;
+  background-color: rgba(0, 0, 0, 0);
+  padding: 16px 0;
+  letter-spacing: 0.5px;
+  height: 34px;
+  width: 100%;
+  max-width: 100%;
+  color: #898989;
+}
+
+#partnerSlider .owl-dots {
+  left: 45%;
+  right: 45%;
+}
+
+.newfo {
+  font-size: 16px;
+  color: #767676;
+}
+.newfo .col-md-3 {
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+.newfo .col-md-3 input {
+  background: none;
+  border-top: none;
+  color: #fff;
+  border-left: none;
+  border-right: none;
+  width: 100%;
+}
+.newfo .col-md-3 select {
+  background: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: 100%;
+}
+.newfo .col-md-3 .select2-container--default .select2-selection--single {
+  background-color: transparent;
+  text-transform: none !important;
+  border-bottom: 2px solid #767676;
+}
+.newfo
+  .col-md-3
+  .select2-container--default
+  .select2-selection--single
+  .select2-selection__rendered {
+  padding-left: 0;
+  margin-left: 0;
+  font-size: 16px;
+  text-transform: none !important;
+}
+.wpcf7-response-output {
+  color: red !important;
+}
+.newfo .col-md-3 .wpcf7-form-control-wrap {
+  position: relative;
+  width: 100%;
+}
+.fn-header-bottom {
+  position: sticky;
+  top: 0px;
+  z-index: 999;
+  background: #fff;
+}
